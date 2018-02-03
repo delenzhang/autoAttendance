@@ -1,0 +1,19 @@
+{
+  "name": "beyondsoft",
+  "version": "1.0.0",
+  "description": "input worktime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "node app/runner.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "chromedriver": "^2.35.0",
+    "cross-spawn": "^6.0.3",
+    "nightwatch": "^0.9.19",
+    "selenium-server": "^3.8.1"
+  }
+}

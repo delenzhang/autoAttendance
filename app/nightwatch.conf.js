@@ -22,7 +22,7 @@ module.exports = {
       silent: true,
       globals: {
         devServerURL: 'https://e-cology.beyondsoft.com/login/Login.jsp?logintype=1',
-        login: 'zhangdailong',
+        login: '',
         pwd: '',
         splitetime: 25,
         holidays: ['1-4', '25-6','26-4', '30-4', '31-7']
